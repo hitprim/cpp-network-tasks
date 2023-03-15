@@ -1,0 +1,10 @@
+^C:\USERS\PIA\DESKTOP\C++\ANOTHER NET CPP\CPP-NETWORK-TASKS\SRC\BUILD\CMAKEFILES\6C3BA42641C0E39DC8646206AE29399A\GENERATE.STAMP.RULE
+setlocal
+C:\Progs\CMake\bin\cmake.exe "-SC:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src" "-BC:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build/cpp-network-lessons.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

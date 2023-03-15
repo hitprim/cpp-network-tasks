@@ -1,0 +1,10 @@
+C:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build/socket_wrapper/CMakeFiles/socket-wrapper.dir
+C:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build/socket_wrapper/CMakeFiles/ALL_BUILD.dir
+C:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build/l1/CMakeFiles/test_byte_order.dir
+C:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build/l1/CMakeFiles/ALL_BUILD.dir
+C:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build/l1/resolve/CMakeFiles/dns-resolver.dir
+C:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build/l1/resolve/CMakeFiles/ALL_BUILD.dir
+C:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build/l1/udp_server/CMakeFiles/udp-server.dir
+C:/Users/PiA/Desktop/c++/another net cpp/cpp-network-tasks/src/build/l1/udp_server/CMakeFiles/ALL_BUILD.dir

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\PiA\Desktop\c++\another net cpp\cpp-network-tasks\src\l1\udp_server\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\PiA\Desktop\c++\another net cpp\cpp-network-tasks\src\l1\udp_server\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9DFD15E8-1A23-3050-B712-08E4D39FC630}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
